@@ -1,0 +1,7 @@
+# .dockerignore
+.git
+.env
+__pycache__/
+*.pyc
+notebooks/
+data/raw_dataset.csv
