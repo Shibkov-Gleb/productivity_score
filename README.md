@@ -4,6 +4,8 @@ An end-to-end Machine Learning project that predicts daily productivity scores t
 
 This project demonstrates a complete ML lifecycle: from exploratory data analysis and model training to building an inference pipeline and deploying a dockerized production application.
 
+You can try this bot [here](https://t.me/productivity_score_bot).
+
 ## 🚀 Features
 
 - **Conversational Interface:** Collects daily habit data (sleep, work hours, exercise, etc.) step-by-step via a Telegram Bot.
